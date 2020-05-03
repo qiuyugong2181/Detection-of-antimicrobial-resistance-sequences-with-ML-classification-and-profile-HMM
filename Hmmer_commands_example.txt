@@ -1,0 +1,17 @@
+#iterate alignment file and build individual hmm file
+
+for i in $(echo /home/linrui/450/450cluster_sh_files/*);do name=$(echo "$i" | cut -f 1 -d '.'); hmmbuild 
+$name.hmm $i; done
+
+#combine all hmm files 
+
+cat *.hmm > 450combined.hmm
+
+#create hmm database 
+
+hmmpress 450combined.hmm
+
+#testing
+
+hmmscan /home/linrui/450/450_clusters_sh_files/450combined.hmm  /home/linrui/megares_proteins.fasta  >
+ /home/linrui/4_27result/450.out
