@@ -1,5 +1,5 @@
 # Detection-of-antimicrobial-resistance-sequences-with-ML-classification-and-profile-HMM
-Prerequisites：
+_Prerequisites：_
 
 python3.7.6，
 Ubuntu 16.04.6 
