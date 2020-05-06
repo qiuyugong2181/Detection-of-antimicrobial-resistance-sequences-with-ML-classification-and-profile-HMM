@@ -1,11 +1,17 @@
 # Detection-of-antimicrobial-resistance-sequences-with-ML-classification-and-profile-HMM
-Prerequisites
+Prerequisites：
 
 python3.7.6，
 Ubuntu 16.04.6 
 
-packages
+Packages：
 
 Biopython，HMMER3.3， Numpy， re， matlpotlib， scipy
 
-Data Pre-Process
+Motif search：
+
+Motif search was done in webstie https://www.genome.jp/tools/motif/ against Pfam database
+
+
+
+
