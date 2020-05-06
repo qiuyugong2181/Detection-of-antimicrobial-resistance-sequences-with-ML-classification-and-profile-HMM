@@ -14,15 +14,15 @@ Motif search was done in webstie https://www.genome.jp/tools/motif/ against Pfam
 
 **Files：**
 
-_Clustering and analysis.ipynb_	 process of clustering 
+_Clustering and analysis.ipynb_	         Process of clustering 
 
-_DNA_TO_PROTEINS.ipynb_	DNA to Amnio acid sequence translation based on Biopython
+_DNA_TO_PROTEINS.ipynb_	                 DNA to Amnio acid sequence translation based on Biopython
 
-_Evaluation.ipynb_	Evalutaion of our model against MEGARes Databse 
+_Evaluation.ipynb_	                     Evalutaion of our model against MEGARes Databse 
 
-_Evaluation_Resfams.ipynb_	Evaluation of Resfams model agaisnt MEGARes Databse
+_Evaluation_Resfams.ipynb_	             Evaluation of Resfams model agaisnt MEGARes Databse
 
-_Hmmer_commands_example.txt_ example of building profile HMM 
+_Hmmer_commands_example.txt_             Example of building profile HMM 
 
 
 
