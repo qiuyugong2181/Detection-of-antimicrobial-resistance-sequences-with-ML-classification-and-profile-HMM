@@ -24,5 +24,7 @@ _Evaluation_Resfams.ipynb_	       |      Evaluation of Resfams model agaisnt MEG
 
 _Hmmer_commands_example.txt_       |      Example of building profile HMM 
 
+**Contributors：**
 
+Linrui Tang, Qiuyu Gong
 
